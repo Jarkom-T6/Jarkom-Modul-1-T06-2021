@@ -1,7 +1,7 @@
 # Kelompok T6
-  *Syakhisk Al-Azmi (05311940000003)<br>
-  *Rizki Wijaya (05311940000014)<br>
-  *Shafira Firdausi (05311940000040)<br>
+  Syakhisk Al-Azmi (05311940000003)<br>
+  Rizki Wijaya (05311940000014)<br>
+  Shafira Firdausi (05311940000040)<br>
 
 # Soal
 #### 1. Sebutkan web server yang digunakan pada "ichimarumaru.tech"!
